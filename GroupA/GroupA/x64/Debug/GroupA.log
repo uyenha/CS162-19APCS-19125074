@@ -1,0 +1,16 @@
+﻿  AboutClass.cpp
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\AboutClass.cpp(286,8): warning C4101: 'diachi': unreferenced local variable
+  AboutScoreboard.cpp
+  Lecturer.cpp
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\Lecturer.cpp(230,7): warning C4101: 'courseID': unreferenced local variable
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\Lecturer.cpp(229,7): warning C4101: 'lop': unreferenced local variable
+  Login.cpp
+  Main.cpp
+  Menu.cpp
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\Menu.cpp(30,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\Menu.cpp(30,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Staff.cpp
+  Student.cpp
+C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\GroupA\Student.cpp(320,27): warning C4101: 'lop': unreferenced local variable
+  Generating Code...
+  GroupA.vcxproj -> C:\Users\ACER\Documents\GitHub\CS162-19APCS-19125074\GroupA\x64\Debug\GroupA.exe
