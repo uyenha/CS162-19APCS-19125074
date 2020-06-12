@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{22580C44-6CB0-441F-B546-353DAF414CEA}</ProjectGuid>
-    <RootNamespace>Final</RootNamespace>
+    <ProjectGuid>{CA392E73-1AFF-4773-A067-99AB53BCBA52}</ProjectGuid>
+    <RootNamespace>GroupA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClInclude Include="Class.h" />
+    <ClInclude Include="FunctionUsed.h" />
+    <ClInclude Include="Lecture.h" />
+    <ClInclude Include="Staff.h" />
+    <ClInclude Include="Student.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AboutClass.cpp" />
+    <ClCompile Include="AboutScoreboard.cpp" />
+    <ClCompile Include="Lecturer.cpp" />
+    <ClCompile Include="Login.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Staff.cpp" />
+    <ClCompile Include="Student.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="menu.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
